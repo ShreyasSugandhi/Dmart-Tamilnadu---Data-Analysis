@@ -28,3 +28,6 @@ Interestingly, 64.3% of sales occurred during weekdays, with weekends contributi
 * **Regional Focus:** North Tamil Nadu deserves some love! Tailored marketing efforts could help boost sales in this region.
 * **Product Powerhouse:** Doubling down on top categories like 'Health Drinks' and 'Snacks' can further maximize profits.
 * **Seasonal Savvy:** Let's leverage peak sales periods by introducing special offers, especially during September and October. 
+
+![Dmart tamilnadu Data Analysis](https://github.com/user-attachments/assets/e5eb400c-8dcd-4097-9c46-1bbebedf4bca)
+![Screenshot 2024-08-16 184835](https://github.com/user-attachments/assets/f930eae5-2eae-4c7e-abb3-dd373a69fb92)
